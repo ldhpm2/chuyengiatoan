@@ -420,8 +420,13 @@ const App: React.FC = () => {
 
           <p className="text-center text-gray-400 text-sm mt-8 font-medium">
             Được hỗ trợ bởi Google Gemini AI • Giúp bạn học tốt hơn mỗi ngày
-          </p>
-       </main>
+           </p>
+        </main>
+
+       
+      </div>
+
+
     );
   };
 
